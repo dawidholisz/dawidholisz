@@ -1,1 +1,1 @@
-![banner](https://github.com/Selleo/banners/blob/banner-generator/banners/dholisz.svg)
+![banner](https://assets.selleo.com/banners/dholisz.svg)
